@@ -1,2 +1,6 @@
 # GitHub-test
-Testing out git and GitHub
+Testing out Git and GitHub
+
+Hi!
+
+I'm learning to use Git and GitHub. This is my practice README.
